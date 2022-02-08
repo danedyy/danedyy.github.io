@@ -21,6 +21,6 @@
     <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/eteka.e/">
-    <img src="https://imgur.com/M6yBwxS" height="40" width="40" alt="Dev Community Inc.">
+    <img src="https://imgur.com/M6yBwxS.png" height="40" width="40" alt="Instagram">
   </a>
 <div>
